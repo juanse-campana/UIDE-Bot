@@ -1,0 +1,18 @@
+{
+  "name": "chatbot-admisiones-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/dialogflow": "^7.2.0",
+    "axios": "^1.11.0",
+    "express": "^5.1.0"
+  }
+}
